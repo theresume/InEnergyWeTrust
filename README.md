@@ -1,0 +1,2 @@
+# InEnergyWeTrust
+Ether Mining 
